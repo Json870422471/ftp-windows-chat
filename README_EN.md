@@ -175,6 +175,10 @@ Online detection:
 - [PyQt5](https://pypi.org/project/PyQt5/) >= 5.15.0 — GUI framework
 - [pyftpdlib](https://pypi.org/project/pyftpdlib/) >= 1.5.9 — FTP server
 
+## More IT Learning Resources
+
+More IT learning resources: https://www.3woop.com
+
 ## License
 
 MIT License

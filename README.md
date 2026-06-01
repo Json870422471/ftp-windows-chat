@@ -175,6 +175,10 @@ python build.py
 - [PyQt5](https://pypi.org/project/PyQt5/) >= 5.15.0 — GUI 框架
 - [pyftpdlib](https://pypi.org/project/pyftpdlib/) >= 1.5.9 — FTP 服务器
 
+## 更多IT学习资源
+
+更多IT学习资源 https://www.wwwoop.com
+
 ## 许可证
 
 MIT License
