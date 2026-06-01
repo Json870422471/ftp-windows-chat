@@ -173,7 +173,7 @@ python build.py
 ## 依赖
 
 - [PyQt5](https://pypi.org/project/PyQt5/) >= 5.15.0 — GUI 框架
-- [pyftpdlib](https://pypi.org/pr oject/pyftpdlib/) >= 1.5.9 — FTP 服务器
+- [pyftpdlib](https://pypi.org/project/pyftpdlib/) >= 1.5.9 — FTP 服务器
 
 ## 许可证
 
