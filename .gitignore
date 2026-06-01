@@ -1,0 +1,109 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+
+# ===== Python 打包与分发 =====
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+develop-eggs/
+sdist/
+wheels/
+pip-wheel-metadata/
+MANIFEST
+
+# ===== PyInstaller =====
+*.spec
+*.manifest
+__pyinstaller/
+
+# ===== 可执行文件 =====
+*.exe
+*.dll
+*.bin
+
+# ===== 日志与运行数据 =====
+logs/
+*.log
+*.log.*
+data/
+
+# ===== 虚拟环境 =====
+.env
+.env.*
+.venv
+venv/
+env/
+ENV/
+.conda/
+conda-meta/
+
+# ===== IDE / 编辑器 =====
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# ===== 测试与覆盖率 =====
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.mypy_cache/
+.ruff_cache/
+.dmypy.json
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== 操作系统 =====
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.fuse_hidden*
+.Trash-*
+
+# ===== 临时文件与备份 =====
+*.bak
+*.tmp
+*.temp
+*.old
+*.orig
+
+# ===== 项目专属（FTPChat） =====
+# 用户上传/下载的文件目录（如有）
+uploads/
+downloads/
+received_files/
+# 缓存目录
+.cache/
+cache/
