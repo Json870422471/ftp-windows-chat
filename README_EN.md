@@ -179,6 +179,17 @@ Online detection:
 
 More IT learning resources: https://www.3woop.com
 
+## Disclaimer
+
+This project is open-sourced under the MIT License. Users are free to view, modify, and distribute the code of this project, but please be aware of the following terms:
+
+- **Use at Your Own Risk**: This software is provided "AS IS". Any risks arising from the use of this software (data loss, equipment damage, network issues, etc.) shall be borne by the user.
+- **Lawful & Compliant Use**: Please use this software in compliance with the laws and regulations of your country/region. It must not be used for any illegal purposes (including but not limited to illegal transmission of copyrighted content, distribution of malicious files, etc.). All consequences caused by improper use shall be borne by the user.
+- **Data & Privacy**: This software only communicates within the local area network. Users are responsible for safeguarding their own chat records and transferred files to avoid leaking sensitive information.
+- **No Commercial Commitment**: This is a personal/learning exchange project. The author does not commit to continuous maintenance, updates, or technical support.
+
+If you do not agree with the above terms, please do not use this software. Once you download, install, or use this software, you are deemed to have read, understood, and agreed to the above disclaimer.
+
 ## License
 
 MIT License
